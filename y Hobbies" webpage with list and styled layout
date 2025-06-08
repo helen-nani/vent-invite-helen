@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spin-off of "Project: Event invite"</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      color: #333;
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #2e8b57;
+    }
+    img {
+      width: 300px;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Favorite Animal: Cat</h1>
+  <img src="https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg" alt="Cat" />
+  <p>Cats are playful, curious, and great companions. They love to explore and nap in sunny spots.</p>
+</body>
+</html>
