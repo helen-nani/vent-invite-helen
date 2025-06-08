@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      background-color: #e0f7fa;
+      color: #006064;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    img {
+      width: 150px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, I'm Helen!</h1>
+  <img src="https://via.placeholder.com/150" alt="Helen's photo" />
+  <p>
+    I am learning how to build websites using HTML and CSS.  
+    I enjoy coding, exploring new technology, and sharing my projects with others.
+  </p>
+</body>
+</html>
